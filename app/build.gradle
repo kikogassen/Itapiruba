@@ -45,4 +45,6 @@ dependencies {
     implementation project(':foundation:domain')
     implementation project(':foundation:navigation')
     implementation project(':foundation:monitoring')
+
+    implementation project(':features:home')
 }

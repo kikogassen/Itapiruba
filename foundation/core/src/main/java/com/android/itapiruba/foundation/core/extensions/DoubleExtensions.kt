@@ -1,4 +1,4 @@
-package com.finvibe.android.foundation.core.extensions
+package com.android.itapiruba.foundation.core.extensions
 
 import com.android.itapiruba.foundation.core.constants.DoubleConstants
 
