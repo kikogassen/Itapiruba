@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary100">#21005D</color>
+    <color name="primary200">#381E72</color>
+    <color name="primary300">#4F378B</color>
+    <color name="primary400">#6750A4</color>
+    <color name="primary500">#7F67BE</color>
+    <color name="primary600">#9A82DB</color>
+    <color name="primary700">#B69DF8</color>
+    <color name="primary800">#D0BCFF</color>
+    <color name="primary900">#EADDFF</color>
+    <color name="primary1000">#FFFFFF</color>
+
+    <color name="secondary100">#1D192B</color>
+    <color name="secondary200">#332D41</color>
+    <color name="secondary300">#4A4458</color>
+    <color name="secondary400">#625B71</color>
+    <color name="secondary500">#7A7289</color>
+    <color name="secondary600">#958DA5</color>
+    <color name="secondary700">#B0A7C0</color>
+    <color name="secondary800">#CCC2DC</color>
+    <color name="secondary900">#E8DEF8</color>
+    <color name="secondary1000">#FFFFFF</color>
+
+    <color name="error100">#410E0B</color>
+    <color name="error200">#601410</color>
+    <color name="error300">#8C1D18</color>
+    <color name="error400">#B3261E</color>
+    <color name="error500">#DC362E</color>
+    <color name="error600">#E46962</color>
+    <color name="error700">#EC928E</color>
+    <color name="error800">#F2B8B5</color>
+    <color name="error900">#F9DEDC</color>
+    <color name="error1000">#FFFFFF</color>
+
+    <color name="neutral90">#E6E1E5</color>
+    <color name="neutral99">#FFFBFE</color>
+    <color name="neutral10">#1C1B1F</color>
+
+    <color name="loading_background">#80FFFFFF</color>
+</resources>

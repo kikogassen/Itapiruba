@@ -1,0 +1,24 @@
+<resources>
+
+    <style name="Base.Theme.Itapiruba" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary400</item>
+        <item name="colorOnPrimary">@color/primary1000</item>
+        <item name="colorPrimaryContainer">@color/primary900</item>
+        <item name="colorOnPrimaryContainer">@color/primary100</item>
+
+        <item name="colorSecondary">@color/secondary400</item>
+        <item name="colorOnSecondary">@color/secondary1000</item>
+        <item name="colorSecondaryContainer">@color/secondary900</item>
+        <item name="colorOnSecondaryContainer">@color/secondary100</item>
+
+        <item name="colorError">@color/error400</item>
+        <item name="colorOnError">@color/error1000</item>
+        <item name="colorErrorContainer">@color/error900</item>
+        <item name="colorOnErrorContainer">@color/error100</item>
+
+        <item name="android:colorBackground">@color/neutral99</item>
+        <item name="colorOnBackground">@color/neutral10</item>
+    </style>
+
+    <style name="Theme.Itapiruba" parent="Base.Theme.Itapiruba" />
+</resources>

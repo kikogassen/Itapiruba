@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_undefined">0dp</dimen>
+    <dimen name="size_5xs">2dp</dimen>
+    <dimen name="size_4xs">4dp</dimen>
+    <dimen name="size_3xs">6dp</dimen>
+    <dimen name="size_2xs">8dp</dimen>
+    <dimen name="size_xs">12dp</dimen>
+    <dimen name="size_s">16dp</dimen>
+    <dimen name="size_m">24dp</dimen>
+    <dimen name="size_l">32dp</dimen>
+    <dimen name="size_xl">40dp</dimen>
+    <dimen name="size_2xl">48dp</dimen>
+    <dimen name="size_3xl">56dp</dimen>
+    <dimen name="size_4xl">64dp</dimen>
+    <dimen name="size_5xl">72dp</dimen>
+    <dimen name="size_6xl">80dp</dimen>
+    <dimen name="size_7xl">88dp</dimen>
+    <dimen name="size_8xl">96dp</dimen>
+    <dimen name="size_9xl">112dp</dimen>
+    <dimen name="size_10xl">128dp</dimen>
+    <dimen name="size_11xl">160dp</dimen>
+    <dimen name="size_12xl">192dp</dimen>
+    <dimen name="size_13xl">224dp</dimen>
+    <dimen name="size_14xl">256dp</dimen>
+    <dimen name="size_15xl">288dp</dimen>
+    <dimen name="size_16xl">320dp</dimen>
+    <dimen name="size_17xl">384dp</dimen>
+    <dimen name="size_18xl">448dp</dimen>
+    <dimen name="size_19xl">512dp</dimen>
+    <dimen name="size_20xl">640dp</dimen>
+</resources>
