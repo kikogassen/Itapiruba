@@ -1,0 +1,14 @@
+plugins {
+    id 'com.android.library'
+    id 'org.jetbrains.kotlin.android'
+}
+
+dependencies {
+    implementation project(":foundation:core-android")
+    implementation project(":foundation:navigation")
+
+    api "com.google.android.material:material:$material_version"
+    api "androidx.constraintlayout:constraintlayout:$constraint_layout_version"
+
+    api "androidx.browser:browser:$androidx_browser_version"
+}

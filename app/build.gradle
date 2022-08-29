@@ -39,10 +39,10 @@ android {
 }
 
 dependencies {
-//    implementation project(':foundation:core-android')
-//    implementation project(':foundation:dsc')
-//    implementation project(':foundation:data')
-//    implementation project(':foundation:domain')
-//    implementation project(':foundation:navigation')
-//    implementation project(':foundation:monitoring')
+    implementation project(':foundation:core-android')
+    implementation project(':foundation:data')
+    implementation project(':foundation:dsc')
+    implementation project(':foundation:domain')
+    implementation project(':foundation:navigation')
+    implementation project(':foundation:monitoring')
 }
