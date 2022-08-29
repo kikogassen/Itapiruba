@@ -14,3 +14,8 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Itapirubá"
 include ':app'
+['foundation'].forEach{ moduleFolderDir ->
+    file(moduleFolderDir).eachDir {moduleDir ->
+        include ":$moduleFolderDir:${moduleDir.name}"
+    }
+}
