@@ -7,7 +7,7 @@ plugins {
 
 android {
     defaultConfig {
-        applicationId "com.android.itapiruba"
+        applicationId "com.android.example"
         versionCode 1
         versionName "1.0"
     }

@@ -1,5 +1,5 @@
 <resources>
-    <style name="Base.Theme.Itapiruba" parent="Theme.Material3.DayNight.NoActionBar">
+    <style name="Base.Theme.Example" parent="Theme.Material3.DayNight.NoActionBar">
         <item name="colorPrimary">@color/primary800</item>
         <item name="colorOnPrimary">@color/primary200</item>
         <item name="colorPrimaryContainer">@color/primary300</item>
