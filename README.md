@@ -1,6 +1,6 @@
 # Clean Architecture - base project
 
-This repository can be forked to be used as a base of Clean Architecture project. It has the following filetree:
+This repository can be forked to be used as a base of Clean Architecture project. It has the following file tree:
 
 ```
 project
@@ -28,4 +28,3 @@ project
 - `:features` modules without circular dependency;
 - `:foundation` modules to be used in all `:features` modules;
 - Clean and lightweight `:app` module.
-- For this project there is not a dependency injection library integrated since there are two common libraries for this: [Hilt](https://developer.android.com/training/dependency-injection/hilt-android) and [Koin](https://insert-koin.io/docs/quickstart/android/).
