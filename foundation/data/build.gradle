@@ -10,5 +10,12 @@ dependencies {
 
     implementation "com.google.firebase:firebase-analytics-ktx"
 
+    implementation "com.squareup.retrofit2:retrofit:$retrofit_version"
+    implementation "com.squareup.retrofit2:converter-gson:$retrofit_version"
+
+    implementation platform("com.squareup.okhttp3:okhttp-bom:$okhttp_version")
+    implementation "com.squareup.okhttp3:okhttp"
+    implementation "com.squareup.okhttp3:logging-interceptor"
+
     implementation "androidx.datastore:datastore-preferences:$datastore_version"
 }

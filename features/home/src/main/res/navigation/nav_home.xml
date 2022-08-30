@@ -10,7 +10,7 @@
         android:name="com.android.example.features.home.HomeFragment"
         tools:layout="@layout/fragment_home">
 
-        <deepLink app:uri="itapiruba://home" />
+        <deepLink app:uri="example://home" />
 
     </fragment>
 

@@ -9,6 +9,8 @@ buildscript {
         androidx_appcompat_version = '1.4.2'
         androidx_browser_version = '1.4.0'
         material_version = '1.6.1'
+        retrofit_version = '2.9.0'
+        okhttp_version = '4.9.3'
         firebase_bom_version = '30.0.0'
         constraint_layout_version = '2.1.4'
         navigation_version = '2.4.2'
