@@ -12,6 +12,8 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         WindowCompat.setDecorFitsSystemWindows(window, false)
 
+        super.onCreate(savedInstanceState)
+
         ActivityMainBinding.inflate(layoutInflater)
             .also { setContentView(it.root) }
             .also { binding = it }

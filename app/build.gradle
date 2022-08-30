@@ -3,6 +3,7 @@ plugins {
     id 'org.jetbrains.kotlin.android'
     id 'com.google.gms.google-services'
     id 'com.google.firebase.crashlytics'
+    id 'dagger.hilt.android.plugin'
     id 'kotlin-kapt'
 }
 
@@ -49,5 +50,6 @@ dependencies {
 
     implementation project(':features:home')
 
+    implementation "com.google.dagger:hilt-android:$hilt_version"
     kapt "com.google.dagger:hilt-compiler:$hilt_version"
 }
