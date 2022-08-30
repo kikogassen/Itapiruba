@@ -1,7 +1,7 @@
 buildscript {
     ext {
         android_plugin_version = '7.2.2'
-        kotlin_plugin_version = '1.6.21'
+        kotlin_plugin_version = '1.7.10'
         google_services_plugin_version = '4.3.10'
         crashlytics_plugin_version = '2.8.1'
 
@@ -24,8 +24,8 @@ buildscript {
 plugins {
     id 'com.android.application' version "$android_plugin_version" apply false
     id 'com.android.library' version "$android_plugin_version" apply false
-    id 'org.jetbrains.kotlin.android' version '1.7.10' apply false
-    id 'org.jetbrains.kotlin.jvm' version '1.7.10' apply false
+    id 'org.jetbrains.kotlin.android' version "$kotlin_plugin_version" apply false
+    id 'org.jetbrains.kotlin.jvm' version "$kotlin_plugin_version" apply false
     id 'com.google.gms.google-services' version "$google_services_plugin_version" apply false
     id 'com.google.firebase.crashlytics' version "$crashlytics_plugin_version" apply false
 }
