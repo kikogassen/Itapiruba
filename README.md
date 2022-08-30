@@ -10,7 +10,7 @@ project
 │   │
 │   └───src
 │
-├───features
+├───features // all aplication features
 │   └───home
 │
 ├───foundation
