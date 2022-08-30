@@ -6,17 +6,17 @@ buildscript {
         crashlytics_plugin_version = '2.8.1'
 
         androidx_core_version = '1.8.0'
-        androidx_appcompat_version = '1.4.2'
+        androidx_appcompat_version = '1.5.0'
         androidx_browser_version = '1.4.0'
         material_version = '1.6.1'
         retrofit_version = '2.9.0'
         okhttp_version = '4.9.3'
         firebase_bom_version = '30.0.0'
         constraint_layout_version = '2.1.4'
-        navigation_version = '2.4.2'
+        navigation_version = '2.5.1'
         custom_tabs_version = '28.0.0'
-        kotlin_coroutines_version = '1.6.2'
-        lifecycle_version = '2.4.1'
+        kotlin_coroutines_version = '1.6.3'
+        lifecycle_version = '2.5.1'
         datastore_version = '1.0.0'
     }
 }
