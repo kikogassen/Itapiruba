@@ -6,20 +6,19 @@ This repository can be forked to be used as a base of Clean Architecture project
 project
 ├───app
 │   │   proguard-rules.pro <!-- all features proguard-rules.pro should be added here -->
-│   │
 │   └───src
 │
 ├───features    <!-- all aplication features should be added here and must not implement another feature -->
 │   └───home
 │
-├───foundation <!-- all features utils classes should be added here -->
-│   ├───core
-│   ├───core-android
-│   ├───data
-│   ├───domain
-│   ├───dsc
-│   ├───monitoring
-│   └───navigation
+└───foundation <!-- all features utils classes should be added here -->
+    ├───core
+    ├───core-android
+    ├───data
+    ├───domain
+    ├───dsc
+    ├───monitoring
+    └───navigation
 ```
 
 ## General information
